@@ -1,0 +1,30 @@
+  118  history
+  119  clear
+  120  pwd
+  121  clear
+  122  cd ~
+  123  clear
+  124  uname -sr && whoami
+  125  clear
+  126  uname -sr && whoami
+  127  sudo apt update && sudo apt install build-essential
+  128  clear
+  129  cd ~/CS-Stuff/URO/Sekuro18_Git_Nuno/
+  130  cd Soal_2_RenunoYuqaFrinardi_13524080_Cakru18/
+  131  clear
+  132  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+  133  clear
+  134  ls
+  135  cd ~
+  136  clear
+  137  ls
+  138  mkdir recovery_ops
+  139  ls
+  140  cd recovery_ops/
+  141  wget https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  142  ls
+  143  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+  144  ls
+  145  cat recovered_sector.txt 
+  146  code .
+  147  history | tail -n 30 > history_audit.txt
