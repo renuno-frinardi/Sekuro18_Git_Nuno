@@ -1,0 +1,6 @@
+*   be495d7 fix: menyelesaikan merge conflict dengan v1
+|\  
+| * b9bf607 docs: menambahkan komentar
+* | aa96e2f docs: menambahkan komentar
+|/  
+* d809cdf chore: inisiasi github
